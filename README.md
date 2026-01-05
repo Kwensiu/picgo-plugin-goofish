@@ -59,20 +59,6 @@ npm install picgo-plugin-goofish --save
 - 建议在上传成功后及时保存图片地址，否则永久丢失
 - 本插件仅供个人学习交流使用，请勿滥用
 
-## 开发
-
-```bash
-# 克隆项目
-git clone https://github.com/kwensiu/picgo-plugin-goofish.git
-
-# 安装依赖
-cd picgo-plugin-goofish
-npm install
-
-# 测试
-npm test
-```
-
 ## 许可证
 
 MIT
