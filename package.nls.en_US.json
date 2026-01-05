@@ -1,0 +1,6 @@
+{
+  "ExtensionName": "Goofish Image Bed",
+  "ExtensionDescription": "Upload images to Goofish image hosting",
+  "Config.cookie2": "Cookie2 Value",
+  "Config.cookie2.placeholder": "Please enter the cookie2 value obtained from Goofish Creator Platform"
+}

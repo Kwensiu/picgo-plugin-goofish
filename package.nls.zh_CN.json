@@ -1,0 +1,6 @@
+{
+  "ExtensionName": "闲鱼图床",
+  "ExtensionDescription": "上传图片到闲鱼图床",
+  "Config.cookie2": "Cookie2 值",
+  "Config.cookie2.placeholder": "请输入从闲鱼创作者平台获取的 cookie2 值"
+}

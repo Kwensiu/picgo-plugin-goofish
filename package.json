@@ -1,0 +1,31 @@
+{
+    "name": "picgo-plugin-goofish",
+    "version": "1.0.0",
+    "description": "闲鱼图床 PicGo 插件",
+    "main": "src/index.js",
+    "publishConfig": {
+        "access": "public"
+    },
+    "homepage": "https://github.com/kwensiu/picgo-plugin-goofish.git",
+    "scripts": {
+        "publish": "npm publish --registry https://registry.npmjs.org",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "patch": "npm version patch && git push origin master && git push origin --tags",
+        "minor": "npm version minor && git push origin master && git push origin --tags",
+        "major": "npm version major && git push origin master && git push origin --tags"
+    },
+    "keywords": [
+        "picgo",
+        "picgo-gui-plugin",
+        "picgo-plugin",
+        "picgo-plugin-goofish",
+        "goofish",
+        "闲鱼图床"
+    ],
+    "author": "Kwensiu",
+    "license": "MIT",
+    "engines": {
+        "node": ">= 14"
+    },
+    "devDependencies": {}
+}
