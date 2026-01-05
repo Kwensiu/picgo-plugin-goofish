@@ -19,9 +19,14 @@ PicGo 闲鱼图床插件，基于 [Tavre/goofish_img](https://github.com/Tavre/g
 
 ### 手动安装
 
+1. 下载项目文件到本地任意位置：
 ```bash
-npm install picgo-plugin-goofish --save
+git clone https://github.com/Kwensiu/picgo-plugin-goofish.git
 ```
+- 或直接通过Github页面的 `Code` 按钮下载项目文件到本地任意位置
+
+2. 在PicGo的“插件设置”页面，点击“导入本地插件”
+3. 选择刚刚下载的文件夹后导入即可
 
 ## 配置
 
